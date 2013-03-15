@@ -13,3 +13,4 @@ tagline:
 #### 最近发布的文章 ####
 
 * 7 Mar 2013 » [Hi,Jekyll](http://edition.github.com/2013/03/07/Hi-Jekyll/)
+* March 15, 2013 » [早晨](http://edition.github.com/2013/03/15/%E6%97%A9%E6%99%A8/)
